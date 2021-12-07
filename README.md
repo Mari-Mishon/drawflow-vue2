@@ -1,4 +1,4 @@
-# modul-drawflow
+# drawflow-vue2
 
 ## Project setup
 ```
