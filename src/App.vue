@@ -39,6 +39,7 @@
 <script>
 /*eslint-disable */
 import Drawflow from "drawflow";
+import styleDrawflow from "drawflow/dist/drawflow.min.css";
 import Vue from "vue";
 import Node1 from "./components/nodes/node1.vue";
 import Node2 from "./components/nodes/node2.vue";
@@ -48,8 +49,6 @@ export default {
   name: "App",
 
   components: {
-    HelloWorld,
-    HelloWorld2,
     Node1,
     Node2,
     Node3,
